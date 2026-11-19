@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eynnzerr
-- 👀 I’m interested in Android/iOS developing, front/back-end developing, etc.
+- 👀 I’m interested in mobile developing, currently learning and exploring On-Device Intelligence
 - 💞️ I’m looking to collaborate on creative and meaningful projects
 - 📫 How to reach me: eynnzerr@gmail.com
 - 💔 I'm heart broken
